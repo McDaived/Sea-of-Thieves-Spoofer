@@ -22,8 +22,9 @@
 
 
 ## ![](https://github.com/McDaived/NoRecoil-CS2/assets/18085492/7eab67ab-4b44-40ee-b050-53e48a856fc5)How to use :
-**Click on all the steps in order and wait five seconds for each step.**
+**1. Click on all the steps in order and wait five seconds for each step.**
 
+**2. Create new steam account and buy the game then create new xbox account or Create new steam account then share the game from another steam account (not banned)**
 
 
 ## ![](https://github.com/McDaived/Discord-Profile-Card/assets/18085492/7a4879fd-97a1-4807-98e5-8f62137dee6e)Preview :
