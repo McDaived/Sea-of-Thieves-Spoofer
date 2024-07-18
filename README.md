@@ -16,7 +16,7 @@
 
 **• Step 4: Runs a PowerShell script to delete credentials accounts and registry keys.**
 
-**• Step 5: Clears the hosts file and restarts the system.**
+**• Step 5: Clears the hosts file and reboot the system.**
 
 
 
