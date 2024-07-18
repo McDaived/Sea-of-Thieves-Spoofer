@@ -32,8 +32,8 @@ namespace Spoofer {
         System::Windows::Forms::Button^ step1;
         System::Windows::Forms::Button^ step2;
         System::Windows::Forms::Button^ step3;
-        System::Windows::Forms::Button^ step4; // Existing button for Step 4
-        System::Windows::Forms::Button^ step5; // New button for Step 5
+        System::Windows::Forms::Button^ step4; 
+        System::Windows::Forms::Button^ step5; 
         System::Windows::Forms::Button^ btnAbout;
         System::Windows::Forms::Button^ btnExit;
         System::ComponentModel::Container^ components;
